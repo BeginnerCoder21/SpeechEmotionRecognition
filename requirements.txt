@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 matplotlib
-os
 librosa
 sklearn
 soundfile
